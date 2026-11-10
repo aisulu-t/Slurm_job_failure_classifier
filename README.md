@@ -1,6 +1,6 @@
 # GPU Fleet Failure Classifier
 
-[![Tests](https://github.com/alzion/Slurm_job_failure_classifier/actions/workflows/tests.yml/badge.svg)](https://github.com/alzion/Slurm_job_failure_classifier/actions/workflows/tests.yml)
+[![Tests](https://github.com/aisulu-t/Slurm_job_failure_classifier/actions/workflows/tests.yml/badge.svg)](https://github.com/aisulu-t/Slurm_job_failure_classifier/actions/workflows/tests.yml)
 
 Automatically classifies Slurm job failures by root cause and surfaces pre-failure GPU health signals up to 90 minutes before a job dies.
 
